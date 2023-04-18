@@ -1,0 +1,7 @@
+{
+  "end_of_line": "lf",
+  "singleQuote": true,
+  "printWidth": 60,
+  "trailingComma": "es5",
+  "jsxSingleQuote": false
+}
